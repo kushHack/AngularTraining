@@ -70,7 +70,7 @@ console.log(currAge); // we can use outside of block as it is pre ES6 and block 
 // Therefore we shoulld avoid using "var" and use "let" and "const"
 
 /****************** Operators ******************/
-console.log(/****************** Operators ******************/);
+console.log("/****************** Operators ******************/");
 const a = 9;
 const b = 3;
 
